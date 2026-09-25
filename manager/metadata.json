@@ -1,0 +1,19 @@
+{
+    "test2.txt": {
+        "size": 0,
+        "replication_factor": 3,
+        "replicas": [
+            "node1",
+            "node2"
+        ]
+    },
+    "134099913234681013.jpg": {
+        "size": 2185747,
+        "replication_factor": 3,
+        "replicas": [
+            "node1",
+            "node2",
+            "node3"
+        ]
+    }
+}
